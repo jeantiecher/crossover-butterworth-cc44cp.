@@ -196,7 +196,7 @@ fc = 3.4e3 # Frequência de corte (Hz)
 | **L** | 0,374 mH | **0,39 mH** | **+4,14%** |
 | **C** | 11,70 μF | **12 μF** | **+2,54%** |
 
-**Desvio médio:** 3,34% ✅
+**Desvio médio:** 3,34% 
 
 **Componentes selecionados:**
 - 🔷 Indutor: 0,39 mH
@@ -209,7 +209,7 @@ fc = 3.4e3 # Frequência de corte (Hz)
 | **C** | 23,40 μF | **22 μF** | **–6,00%** |
 | **L** | 0,187 mH | **0,18 mH** | **–3,87%** |
 
-**Desvio médio:** 4,94% ✅
+**Desvio médio:** 4,94% 
 
 **Componentes selecionados:**
 - 🔶 Capacitor: 22 μF
@@ -262,7 +262,7 @@ Ou seja, mesmo com desvios de 3–5%, o sistema ainda está dentro do padrão da
 | 1–3 dB | Perceptível em sistemas high-end |
 | > 3 dB | Claramente audível |
 
-**Nosso projeto:** < 0,6 dB → **praticamente inaudível** ✅
+**Nosso projeto:** < 0,6 dB → **praticamente inaudível** 
 
 ### 7.3. Principais Aprendizados
 
@@ -303,11 +303,11 @@ Em um projeto real, seria interessante:
 
 O objetivo do trabalho foi **plenamente alcançado**:
 
-✅ Projetei os dois filtros (LPF e HPF) de 2ª ordem Butterworth  
-✅ Desenvolvi um programa que automatiza todo o processo  
-✅ Comparei componentes ideais e comerciais  
-✅ Analisei quantitativamente o impacto das diferenças  
-✅ Gerei os gráficos de Bode para validar o comportamento  
+ Projetei os dois filtros (LPF e HPF) de 2ª ordem Butterworth  
+ Desenvolvi um programa que automatiza todo o processo  
+ Comparei componentes ideais e comerciais  
+ Analisei quantitativamente o impacto das diferenças  
+ Gerei os gráficos de Bode para validar o comportamento  
 
 A diferença entre o filtro ideal e o filtro com componentes comerciais ficou **abaixo de 0,6 dB**, praticamente inaudível. Os desvios dos componentes (3–5%) estão dentro das tolerâncias típicas da indústria de áudio.
 
