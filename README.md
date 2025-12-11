@@ -350,5 +350,5 @@ Este trabalho demonstrou a importância de equilibrar precisão teórica com via
 
 ---
 
-**Repositório:** [GitHub - Crossover Butterworth CC44CP](https://github.com/jeantiecher/crossover-butterworth-cc44cp)  
+**Repositório:** [GitHub - Crossover Butterworth CC44CP]([https://github.com/jeantiecher/crossover-butterworth-cc44cp](https://github.com/jeantiecher/crossover-butterworth-cc44cp.))  
 **Data:** Dezembro/2025
