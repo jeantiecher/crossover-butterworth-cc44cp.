@@ -327,7 +327,7 @@ Este trabalho demonstrou a importância de equilibrar precisão teórica com via
 
 4. BUTTERWORTH, S. "On the Theory of Filter Amplifiers". *Wireless Engineer*, vol. 7, pp. 536-541, 1930.
 
-5. Notas de aula da disciplina CC44CP – Prof. Dionatan Cieslak, UTFPR, 2024.
+5. Notas de aula da disciplina CC44CP – Prof. Dionatan Cieslak, UTFPR, 2025.
 
 ---
 
