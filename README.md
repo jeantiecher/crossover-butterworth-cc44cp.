@@ -1,7 +1,7 @@
 # Projeto de Crossover Passivo com Filtros Butterworth de 2ª Ordem
 
 **Disciplina:** Circuitos de Corrente Alternada – CC44CP  
-**Aluno:** Jean de Carvalho  
+**Aluno:** Jean Tiecher de Carvalho  
 **Professor:** Dionatan Cieslak  
 **Instituição:** Universidade Tecnológica Federal do Paraná (UTFPR)
 
